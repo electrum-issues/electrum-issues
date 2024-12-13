@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @electrum-issues with an really URGENT and Complexe Electrum-ISSUE on my Android Phone (Huawei with still official Google Play Services on it)
+-
+- 👀 I NEED HELP IN ...HOW i TURNING MY Electrum STANDARD-Wallet from ~2017 on my Huawei Android P30 Pro turning back again to an "normal" Wallet who I can easy make transactions again without the need or an co-signer which also don't work Properly or I do it wrong, Problem is that it*s over 7 Years ago and I can't find my written 12-Words anymore and also it seems that there are no privare Adreses anymore, which was after 2 Years of not using the Wallet away, and maybe there are on the Phone anywhere, but I also dont know where exactly) because I have over 300€ on it and I need that for living and this is very URGENT to ME because I have to pay my invoices and Christmas is coming) it's a native segwit <p2wpkh> <HD> <Lighning>(which wasn't there before either or the watch-only?) with shown public Keyphrase (zpub) with bip32 (Seed Password I know, but since the Update I'll only get a long Passphrase which I only can create a Watch-Only Wallet it seems so.Before that, I had the private Adresses and all was running as norrmal as it schould be but now I can't get my money out of or even can't transfer it to a new made wallet.
+- I've buyed Coins ant these are now on an Adress, but when I want to make a transaction (no matter how high) i'll get a QR-Code wich says it's an partial signed transaction which I had to present the QR-Code the Co-Signer? And under it a yellow Box which says anythin about "Warning: Some Data (TXs before / "full UTXOS") were not "added" at all, because they hadn't enough space. This could make an Problem when it comes to the Offline-Signing. To avoid that Problem use the Copy and Paste Function or the Share Function. Like I wrote there is Money/Coins on it but I don't know if it's matter if thex are "On-Chain" with blue BTC-Symbol and above the Money I had in EUROS. But when it helps, there are all transactions I made the Past Years still in the "used" Adresses Folder. And the Adress I get my my money on it 2 Months before. It would even be enough when somebody could help me to transfer it to another fully new made Wallet. PEASE, be that kind, i'm frustrating so much and can't get my money back back out or transfer it. And I don't know where/if the private Adresses are stil saved on the Phone anywhere. PLEASE HELP ME. I've even wanted to contat the Programmer of it, if he can help me somewhere. I have to less knowledge about this kind of things. My Current Electru Version is 4.5.7, Protokoll Version 1.4, Qt Version 6.4.3, PyQt Version 6.4.2, Licence WITH Licence. From @Thomas Voegtlin, Programmer SomberNight, Sander van Grieken. PLEASE HELP ME, have no Ideas and Nerves anymore. Best Regards, Dan
+-
+-
+-    🌱 I’m currently learning ... IT-Technician
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... d.rieplhotmail.com or Telegram: @DantheMan99 or Here?
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: At the moment no fun for my :(
+
+<!---
+electrum-issues/electrum-issues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
